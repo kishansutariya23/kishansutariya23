@@ -66,6 +66,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/kishansutariya23/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=kishansutariya23">
 </a>
-<a href="https://github.com/kishansutariya23?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/kishansutariya23?tab=followers"><img src="https://img.shields.io/github/followers/kishansutariya23?label=Followers&style=social" alt="GitHub Badge"></a>
