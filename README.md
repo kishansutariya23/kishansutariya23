@@ -19,6 +19,9 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
+### click on below icon to learn them .
+- You will get notes saying how to learn in effective manner.
+- RoadMap to learn them.
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
