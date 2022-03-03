@@ -19,7 +19,10 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
-### click on below icon to learn them .
+### click on below icon to learn them.
+NOTE:- SOME OF THEM WILL REDIRECT TO THE OFFICIAL WEBSITE OF THAT LANGUAGE TILL I FINISH MY UPLOADING OF NOTES.
+### HAPPY LEARNING ❤
+
 - You will get notes saying how to learn in effective manner.
 - RoadMap to learn them.
 
@@ -32,6 +35,8 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://github.com/kishansutariya23/readme-files/blob/main/unix/README.md" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"></a>
+    <a href="https://www.tutorialspoint.com/mongodb/mongodb_tutorial.pdf" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a> 
+
 </p>
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
