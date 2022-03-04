@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[django,react.js]**
+- 🔭 I’m currently working on **[django]**
 
 - 🌱 I’m currently learning **Python Full Stack Developer.**
 
