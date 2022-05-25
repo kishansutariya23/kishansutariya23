@@ -33,7 +33,7 @@ NOTE:- SOME OF THEM WILL REDIRECT TO THE OFFICIAL WEBSITE OF THAT LANGUAGE TILL 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://github.com/kishansutariya23/readme-files/tree/main/Python" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://github.com/kishansutariya23/readme-files/tree/main/Git" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://github.com/kishansutariya23/readme-files/blob/main/unix/README.md" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"></a>
     <a href="https://github.com/kishansutariya23/readme-files/tree/main/mongodb" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a> 
 
