@@ -54,14 +54,14 @@
 <a href="https://github.com/kishansutariya23?tab=followers"><img src="https://img.shields.io/github/followers/kishansutariya23?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantumudit&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantumudit&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Udit's%20GitHub%20Stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishansutariya23&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |![kishansutariya23's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishansutariya23&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Kishansutariya23's%20GitHub%20Stats)  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <p align="center">
     <a href="https://github.com/kishansutariya23/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kishansutariya23's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kishansutariya23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <a href="https://github.com/kishansutariya23/github-readme-activity-graph"><img alt="Sutariya KishanKumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kishansutariya23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -76,7 +76,7 @@ Note:</b> Top languages is only a metric of the languages my public code consist
 
 <br >
 
-I love sharing knowledge and putting posts, blogs and videos together for helping other developers, data analyst and business intelligence enthusiasts.
+I love sharing knowledge and putting posts, blogs and videos together for helping other developers, data analyst  and ....
 
 <!--START_SECTION:waka-->
 
