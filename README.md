@@ -11,7 +11,7 @@
  
 ### :mailbox: Reach me out!
 
-[![Linkedin Badge][linkedinbadge]][linkedin] [![Twitter Badge](https://img.shields.io/badge/-@ks23_code-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/quantumudit)][twitter]  [![YouTube Badge](https://img.shields.io/badge/-ks23%20code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)][youtube] [![Mail Badge](https://img.shields.io/badge/-ks23.code@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail] 
+[![Linkedin Badge][linkedinbadge]][linkedin] [![](https://img.shields.io/badge/Instagram-da3b5a?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ks23.code/)][instagram] [![Twitter Badge](https://img.shields.io/badge/-@ks23_code-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ks23_code)][twitter]  [![YouTube Badge](https://img.shields.io/badge/-ks23%20code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)][youtube] [![Mail Badge](https://img.shields.io/badge/-ks23.code@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail] 
 
 - 🌱 I’m currently learning everything related to DATA
 - 💞️ I’m looking to collaborate with other data nerds
@@ -91,14 +91,14 @@ I love sharing knowledge and putting posts, blogs and videos together for helpin
 [youtube]: https://www.youtube.com/channel/UCTznaXzOXeFZ8LzWxS0d6_A
 [gmail]: mailto:ks23.code@gmail.com
 [skype]: skype:------?call
-
+[instagram]:https://www.instagram.com/ks23.code/
 <!-- Shields Profile Links -->
 
 [linkedinbadge]: https://img.shields.io/badge/-kishankumar_sutariya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white
 [twitterbadge]: https://img.shields.io/badge/-@ks23_code-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/quantumudit
 [gmailbadge]: https://img.shields.io/badge/-ks23.code-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white
 [youtubebadge]: https://img.shields.io/badge/-youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white
-
+[instagram]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 <!-- Top Technology Badges -->
 
 [powerbibadge]: https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi
