@@ -17,7 +17,7 @@
 - 💞️ I’m looking to collaborate with other data nerds
 - 🥅 2022 Goals: Do Projects on BIG DATA
 - ⚡ Fun fact: i enjoy LEARN UNLEARN RELEARN
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://kishansutariya23.github.io)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://kishansutariya23.netlify.app/#home)**
 
 
 <br>
