@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning everything related to DATA
 - 💞️ I’m looking to collaborate with other data nerds
-- 🥅 2022 Goals: Do Projects on BIG DATA
+- 🥅 2023 Goals: Do Projects on BIG DATA using CLOUD(GCP)
 - ⚡ Fun fact: i enjoy LEARN UNLEARN RELEARN
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://ks23code.netlify.app)**
 
