@@ -6,55 +6,31 @@
  
 <h2 align="center"><strong>I'm DATA ENTHUSIASTS from India.</strong><h2>
 
- 
-<!-- **I'm DATA ENTHUSIASTS from India & business intelligence consultant at PwC and my passion resonates with my profession too. I enjoy exploring data to get insights and create an impactful story out of it.** -->
- 
-### :mailbox: Reach me out!
+ <br>
 
-[![Linkedin Badge][linkedinbadge]][linkedin] [![](https://img.shields.io/badge/Instagram-da3b5a?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ks23.code/)][instagram] [![Twitter Badge](https://img.shields.io/badge/-@ks23_code-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ks23_code)][twitter]  [![YouTube Badge](https://img.shields.io/badge/-ks23%20code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)][youtube] [![Mail Badge](https://img.shields.io/badge/-ks23.code@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail] 
 
-- 🌱 I’m currently learning everything related to DATA
-- 💞️ I’m looking to collaborate with other data nerds
-- 🥅 2023 Goals: Do Projects on BIG DATA using CLOUD(GCP)
-- ⚡ Fun fact: i enjoy LEARN UNLEARN RELEARN
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ks23code.netlify.app)**
-
+# 💫 About Me:
+<br>🔭 I'm currently working on CLOUD (GCP)<br>💞️ I’m looking to collaborate with other data nerds<br>🌱 I’m currently learning everything related to DATA on CLOUD<br>🥅 2023 Goals: Do Projects on BIG DATA using CLOUD(GCP)<br>💬 Ask me about CLOUD (GCP) and Data<br>⚡ Fun fact: i enjoy LEARN UNLEARN RELEARN<br>  👨‍💻 All of my projects are available at **[My Portfolio](https://ks23code.netlify.app)**
 
 <br>
 
-<h3 align="left">👨🏽‍💻 Languages and Tools:</h3>
-<p align="left"> 
-
-- #### Fronted: - <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/html-5.png" alt="html5" width="30" height="30"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/css3.png" alt="css3" width="30" height="30"/> </a>
-- #### Programming Language: -<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/python.png" alt="python" width="30" height="30"/> </a> 
-- #### Cloud: - <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/google-cloud.png" alt="GCP" width="30" height="30"/> </a> 
+## 🌐 Socials:
  
-- #### Libraries & Framework: -<a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/pandas.png" alt="pandas" width="30" height="30"/> </a>
-- #### Big Data: -<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="30" height="30"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="30" height="30"/> </a> 
 
-- #### ETL Tools: -<a href="#" target="_blank" rel="noreferrer"><img src="./images/logo-talend-logomark.png" width=35px alt="talend open studion"></a>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/PVeMAvWg)
+[![Linkedin Badge][linkedinbadge]][linkedin] [![](https://img.shields.io/badge/Instagram-da3b5a?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ks23.code/)][instagram] [![Twitter Badge](https://img.shields.io/badge/-@ks23_code-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ks23_code)][twitter]  [![YouTube Badge](https://img.shields.io/badge/-ks23code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)][youtube] [![Mail Badge](https://img.shields.io/badge/-ks23.code@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail] 
 
-- #### Database: - <a href= "#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/mongodb.png" alt="mongodb" width="30" height="30"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png" alt="mysql" width="30" height="30"/> </a> 
-- #### CI/CD tools: -<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/null/linux--v1.png" alt="linux" width="30" height="30"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/docker.png" alt="docker" width="30" height="30"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> </a> 
-- #### Visualization tools: - <a href="#" ><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="30" height="30"/></a><a href="#"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="30" height="30"/></a>
+<br>
+<br>
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
 
+# 📊 GitHub Stats:
 
-
-
- 
-</p>
-
-
-
-### :octocat: GitHub Statistics
-
-
-#### ❤ Views and Followers
-<a href="https://github.com/kishansutariya23/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kishansutariya23">
-</a>
-<a href="https://github.com/kishansutariya23?tab=followers"><img src="https://img.shields.io/github/followers/kishansutariya23?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishansutariya23&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |![kishansutariya23's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishansutariya23&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Kishansutariya23's%20GitHub%20Stats)  |
@@ -67,25 +43,34 @@ Note:</b> Top languages is only a metric of the languages my public code consist
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kishansutariya23's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kishansutariya23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/kishansutariya23/github-readme-activity-graph"><img alt="Sutariya KishanKumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kishansutariya23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/kishansutariya23/github-readme-activity-graph"><img alt="Sutariya KishanKumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kishansutariya23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+
+
+
+ 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+ 
+
+## ❤ Views and Followers
+<a href="https://github.com/kishansutariya23/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kishansutariya23">
+</a>
+<a href="https://github.com/kishansutariya23?tab=followers"><img src="https://img.shields.io/github/followers/kishansutariya23?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
 
-<details>
-<summary>
-    <strong> :bulb: More stuff about me</strong>
-</summary>
 
-<br >
-
-I love sharing knowledge and putting posts, blogs and videos together for helping other developers, data analyst  and ....
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-<!-- Profile Links -->
 
 [linkedin]: https://www.linkedin.com/in/kishankumar-sutariya/
 [twitter]: https://twitter.com/ks23_code?t=slipKXB8ZbZG4wDzoTxQ&s=09
