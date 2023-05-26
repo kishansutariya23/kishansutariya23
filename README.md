@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-<br>🔭 I'm currently working on CLOUD <br>💞️ I’m looking to collaborate with other data nerds<br>🌱 I’m currently learning everything related to DATA on CLOUD<br>🥅 2023 Goals: Do Projects on BIG DATA using CLOUD<br>💬 Ask me about CLOUD and Data<br>⚡ Fun fact: i enjoy LEARN UNLEARN RELEARN<br>  👨‍💻 All of my projects are available at **[My Portfolio](https://ks23code.netlify.app)**
+<br>🔭 I'm currently working on CLOUD <br>💞️ I’m looking to collaborate with other data nerds<br>🌱 I’m currently learning everything related to DATA on CLOUD<br>🥅 2023 Goals: Do Projects on BIG DATA using CLOUD<br>💬 Ask me about CLOUD and Data<br>⚡ Fun fact: i enjoy LEARN UNLEARN RELEARN<br>  👨‍💻 All of my projects are available at **[My Portfolio](https://kishansutariya23.github.io/)**
 
 <br>
 
